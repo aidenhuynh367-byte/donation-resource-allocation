@@ -42,3 +42,14 @@ Install the required packages:
 
 ```bash
 pip install pandas openpyxl
+
+
+Run the allocation algorithm:
+python allocation_algorithm.py
+
+Run the total donation report:
+python total_amount_report.py
+
+Privacy Note
+
+The uploaded spreadsheet is a sample/anonymised version of the original donation data. Private donor, student, and school information has been removed.
